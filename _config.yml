@@ -12,7 +12,11 @@ github_repo: "https://github.com/wuzhenyubuaa/wuzhenyubuaa.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "不想当厨师的程序員，不是个合格的吃货!"
+<<<<<<< HEAD
 sidebar-avatar: /img/wuzhenyu1.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+=======
+
+>>>>>>> 4b83b878f75808af41b2bd1986904d1abb1f3e68
 
 
 
